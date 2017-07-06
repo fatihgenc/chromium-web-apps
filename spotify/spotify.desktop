@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Spotify
+GenericName=Spotify
+Comment=Plays music with spotify
+Exec=/usr/bin/chromium --app=https://play.spotify.com
+Icon=spotify
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;Audio;
