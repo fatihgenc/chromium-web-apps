@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Twitter
+GenericName=Twitter
+Comment=Read personal timeline
+Exec=/usr/bin/chromium --app=https://twitter.com
+Icon=twitter
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
